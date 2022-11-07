@@ -11,6 +11,7 @@ Requirements:
 
 - A way to launch Jupyter Notebooks, some free resources are:
 
+  - [VSCode with the Jupyter extension](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
   - Google Account to log into [Google Colaboratory](https://colab.research.google.com/)
   - [Jupyter Notebook/Lab](https://jupyter.org/try-jupyter/retro/notebooks/?path=notebooks/Intro.ipynb)
 
